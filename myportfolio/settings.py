@@ -83,8 +83,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql', 
         'NAME': 'portfolio',
         'USER': 'root',
-        'PASSWORD': '',
-        'HOST': 'localhost',   # Or an IP Address that your DB is hosted on
+        'PASSWORD': 'LFVrKnWRQJIdpKNnRUvZZsPqhJtcOFcl',
+        'HOST': 'mysql.railway.internal',   # Or an IP Address that your DB is hosted on
         'PORT': '3306',
     }
 }
