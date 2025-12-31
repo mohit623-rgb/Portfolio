@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'myportfolio.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql', 
-        'NAME': 'portfolio',
+        'NAME': 'railway',
         'USER': 'root',
         'PASSWORD': 'LFVrKnWRQJIdpKNnRUvZZsPqhJtcOFcl',
         'HOST': 'mysql.railway.internal',   # Or an IP Address that your DB is hosted on
